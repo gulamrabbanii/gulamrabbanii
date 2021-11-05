@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gulamrabbani
-- 👀 I’m interested in coding, cybersecurity and network engineering.
+- 👋 Hi, I’m Gulam Rabbani
+- 👀 I’m interested in coding, cybersecurity and network engineering field.
 - 🌱 I’m currently learning Computer Science and Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gulam.rabbani1506@gmail.com

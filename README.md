@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gulam Rabbani
 - 👀 I’m interested in coding and cybersecurity field.
 - 🌱 I’m currently learning Computer Science and Engineering.
-- 🌱 A MuleSoft Developer Intern @MuleSoft, LLC.
+- ✨ MuleSoft Developer Intern @MuleSoft, LLC.
 - 💞️ My skills: OOP, DS and Algo, Linux.
 - 📫 How to reach me gulam.rabbani1506@gmail.com
 

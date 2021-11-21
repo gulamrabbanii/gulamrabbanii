@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gulam Rabbani
 - 👀 I’m interested in Software development and Cybersecurity field.
-- 🌱 I’m currently learning Computer Science and Engineering (final year).
+- 🌱 I’m currently learning Computer Science and Engineering (final year) @Alva's Institute of Engineering and Technology, Mangalore, Karnataka.
 - ✨ MuleSoft Developer Intern @MuleSoft, LLC.
 - 💞️ My skills: OOP, DS and Algo, Linux.
 - 📫 How to reach me gulam.rabbani1506@gmail.com

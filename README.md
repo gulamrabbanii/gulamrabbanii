@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gulam Rabbani
-- 👀 I’m interested in coding, cybersecurity and network engineering field.
+- 👀 I’m interested in coding and cybersecurity field.
 - 🌱 I’m currently learning Computer Science and Engineering.
 - 💞️ My skills: OOP, DS and Algo, Linux.
 - 📫 How to reach me gulam.rabbani1506@gmail.com

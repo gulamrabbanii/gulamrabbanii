@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gulam Rabbani
 - 👀 I’m interested in Software development and Cybersecurity field.
 - 🌱 I’m currently learning Computer Science and Engineering (final year) @Alva's Institute of Engineering and Technology, Mangalore, Karnataka.
-- ✨ MuleSoft Certified Develper, Level-1.
+- ✨ MuleSoft Certified Developer, Level-1.
 - 💞️ My skills: OOP, DS and Algo, Linux, Web Development.
 - 📫 How to reach me gulam.rabbani1506@gmail.com
 

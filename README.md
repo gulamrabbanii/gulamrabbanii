@@ -21,11 +21,9 @@
 ### 📫 Get in Touch  
 - 📩 **Email:** [gulam.rabbani1506@gmail.com](mailto:gulam.rabbani1506@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/gulamrabbani](#)
-- 🏗 **GitHub:** [github.com/gulamrabbanii/gulamrabbanii](#)  
+- 🏗 **GitHub:** [github.com/gulamrabbanii](#)  
 
 ---
-
-This version presents your skills, experience, and interests in a well-structured, professional, and engaging way. Let me know if you'd like any tweaks! 🚀
 
 <!---
 gulamrabbanii/gulamrabbanii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

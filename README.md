@@ -21,7 +21,7 @@
 ### 📫 Get in Touch  
 - 📩 **Email:** [gulam.rabbani1506@gmail.com](mailto:gulam.rabbani1506@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/gulamrabbani](#)
-- 🏗 **GitHub:** [github.com/gulamrabbanii/gulamrabbanii]  
+- 🏗 **GitHub:** [github.com/gulamrabbanii/gulamrabbanii](#)  
 
 ---
 
